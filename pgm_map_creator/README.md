@@ -1,3 +1,5 @@
+# This package is cloned from github as directed by the project instructions
+
 # pgm_map_creator
 Create pgm map from Gazebo world file for ROS localization
 
